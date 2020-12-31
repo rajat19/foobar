@@ -3,8 +3,11 @@ title: About
 layout: page
 ---
 
-Hey! This is the "Leaf" Jekyll theme created by <a rel="me" target="_blank" href="https://twitter.com/_SupunKavinda">Supun Kavinda</a>.
+This website provides some of the questions asked in google foobar challenge, and their solutions
 
-You can find the source code of this theme at <a href="https://github.com/SupunKavinda/jekyll-theme-leaf">Github</a>
-
-(Change this by editing `about.md` file)
+### Questions
+- Level 1
+  - [I Love Lance and Janice](https://rajat19.github.io/foobar/i-love-lance-janice)
+- Level 2
+  - [Lovely Lucky Lambs](https://rajat19.github.io/foobar/lovely-lucky-lambs)
+  - [Elevator Maintenance](https://rajat19.github.io/foobar/elevator-maintenance)

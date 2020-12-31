@@ -1,4 +1,7 @@
-## Google Foobar
+---
+title: Readme
+layout: page
+---
 
 This repository provides some of the questions asked in google foobar challenge, and their solutions
 
@@ -10,3 +13,7 @@ Check out [docs](https://rajat19.github.io/foobar)
 - Level 2
   - [Lovely Lucky Lambs](https://rajat19.github.io/foobar/lovely-lucky-lambs)
   - [Elevator Maintenance](https://rajat19.github.io/foobar/elevator-maintenance)
+
+
+### Theme
+The theme used to create this static website is [jekyll-theme-leaf](https://github.com/SupunKavinda/jekyll-theme-leaf)
