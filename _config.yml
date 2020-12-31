@@ -1,0 +1,15 @@
+title: Google Foobar
+iconURL: assets/google.png
+
+markdown: kramdown
+
+# for a clean URL
+permalink: :slug
+
+social:
+  twitter: evilj0ker19
+  github: rajat19
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
