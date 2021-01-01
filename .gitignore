@@ -4,7 +4,6 @@ out/
 .jekyll-cache/
 .sass-cache/
 _site/
-drafts/
 Gemfile.lock
 .DS_Store
 .vscode/

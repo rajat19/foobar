@@ -1,10 +1,9 @@
-This repository provides some of the questions asked in google foobar challenge, and their solutions
+This static website provides some of the questions asked in google foobar challenge, and their solutions
 
-Check out [docs](https://rajat19.github.io/foobar)
+Check out [website](https://rajat19.github.io/foobar)
 <div>
 <img src="assets/web-illj.png" style="width:80%; display:block; margin-left: auto; margin-right: auto;">
 </div>
-
 
 ### Questions
 - Level 1
@@ -19,4 +18,8 @@ Check out [docs](https://rajat19.github.io/foobar)
 
 
 ### Theme
-The theme used to create this static website is [jekyll-theme-leaf](https://github.com/SupunKavinda/jekyll-theme-leaf)
+The website uses [jekyll-theme-leaf](https://github.com/SupunKavinda/jekyll-theme-leaf)
+
+
+### Contributing
+Read [CONTRIBUTING.md]()
