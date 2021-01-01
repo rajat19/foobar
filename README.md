@@ -1,8 +1,3 @@
----
-title: Readme
-layout: page
----
-
 This repository provides some of the questions asked in google foobar challenge, and their solutions
 
 Check out [docs](https://rajat19.github.io/foobar)
@@ -13,6 +8,8 @@ Check out [docs](https://rajat19.github.io/foobar)
 - Level 2
   - [Lovely Lucky Lambs](https://rajat19.github.io/foobar/lovely-lucky-lambs)
   - [Elevator Maintenance](https://rajat19.github.io/foobar/elevator-maintenance)
+- Level 3
+  - [The Grandest Staircase Of Them All](https://rajat19.github.io/foobar/the-grandest-staircase-of-them-all/solution)
 
 
 ### Theme

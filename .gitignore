@@ -7,3 +7,4 @@ _site/
 drafts/
 Gemfile.lock
 .DS_Store
+.vscode/
