@@ -1,12 +1,14 @@
-code,
-pre {
-  font-family: $code-font-family
+code, pre {
+  font-family: $code-font-family;
 }
+
 code {
   padding: .25em .5em;
   font-size: .8rem;
   border-radius: 3px;
+  background-color: black;
 }
+
 pre {
   display: block;
   margin-top: 0;

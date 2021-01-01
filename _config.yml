@@ -8,7 +8,7 @@ permalink: :slug
 
 social:
   twitter: evilj0ker19
-  github: rajat19
+  github: rajat19/foobar
 
 plugins:
  - jekyll-feed
