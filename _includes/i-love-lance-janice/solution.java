@@ -1,4 +1,4 @@
-class ILoveLanceJanice {
+class Solution {
     public static String solution(String s) {
         int l = s.length();
         char[] chars = s.toCharArray();
@@ -14,9 +14,9 @@ class ILoveLanceJanice {
     
     public static void main(String[] args) {
         String s1 = "wrw blf hvv ozhg mrtsg'h vkrhlwv?";
-        System.out.println(ILoveLanceJanice.solution(s1));
+        System.out.println(Solution.solution(s1));
 
         String s2 = "Yvzs! I xzm'g yvorvev Lzmxv olhg srh qly zg gsv xlolmb!!";
-        System.out.println(ILoveLanceJanice.solution(s2));
+        System.out.println(Solution.solution(s2));
     }
 }

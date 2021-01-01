@@ -14,9 +14,9 @@ class Elevator:
         if self.revision < other.revision: return True
         if self.revision > other.revision: return False
 
-def solution(elevators):
+def solution(l):
     els = []
-    for elevator in elevators:
+    for elevator in l:
         els.append(Elevator(elevator))
     els.sort()
     return [el.str for el in els]
