@@ -9,7 +9,8 @@ Check out [docs](https://rajat19.github.io/foobar)
   - [Lovely Lucky Lambs](https://rajat19.github.io/foobar/lovely-lucky-lambs)
   - [Elevator Maintenance](https://rajat19.github.io/foobar/elevator-maintenance)
 - Level 3
-  - [The Grandest Staircase Of Them All](https://rajat19.github.io/foobar/the-grandest-staircase-of-them-all/solution)
+  - [The Grandest Staircase Of Them All](https://rajat19.github.io/foobar/the-grandest-staircase-of-them-all)
+  - [Bomb Baby](https://rajat19.github.io/foobar/bomb-baby)
 
 
 ### Theme
