@@ -34,4 +34,4 @@ Note that it may also be run against hidden test cases not shown here.
 ---
 ## Solutions
 
-{% include codetab.html btnClass="solution" %}
+{% include codetab.html btnClass="solution" langs="java py"%}
