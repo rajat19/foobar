@@ -8,6 +8,8 @@ This website provides some of the questions asked in google foobar challenge, an
 ### Questions
 - Level 1
   - [I Love Lance and Janice]({{ site.github.url }}/i-love-lance-janice)
+  - [Braille Translation]({{ site.github.url }}/braille-translation)
+  - [Prison Labor Dodgers]({{ site.github.url }}/prison-labor-dodgers)
 - Level 2
   - [Lovely Lucky Lambs]({{ site.github.url }}/lovely-lucky-lambs)
   - [Elevator Maintenance]({{ site.github.url }}/elevator-maintenance)

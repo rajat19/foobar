@@ -9,10 +9,9 @@ You can contribute in many ways:
 ## Types of Contributions
 ----------------------
 
-
 ### Report Errors in Solutions
 ```
-Report errors on the `issues page`_. If you are reporting an issue, please include:
+Report errors on the `issues page`. If you are reporting an issue, please include:
 
 * Question for which issue came
 * Language in which the code is not working
@@ -34,7 +33,7 @@ Remember to update codetab.html as well
 
 ### Add Foobar Questions
 ```
-You can add any foobar question you faced. Check [Sample](drafts/sample.md) on how to add a foobar question with its solutions
+You can add any foobar question you faced. Check [Sample](_drafts/sample.md) on how to add a foobar question with its solutions
 ```
 
 ## Get Started!
@@ -59,3 +58,22 @@ Ready to contribute? Here's how to set up `foobar` for local.
 ```
 
 5. Submit a pull request through the GitHub website.
+
+## Things to keep in mind!
+---
+Some things to keep in mind while adding questions/solutions-
+1. Questions are added in `markdown` files which have .md extensions. These are added in `_posts` folder
+2. Add a question post inside `_posts` folder starting with current date then question name. For ex- `2021-01-01-foobar-got-interesting.md`
+3. You are not necessarily required to add solutions for the foobar question you put. Do not add below line to your post if you do not wish to add any solution
+```md
+{% include codetab.html btnClass="solution" langs="java py"%}
+```
+4. The solutions are added in `_includes/code` folder. Add a folder with question name ex- `foobar-got-interesting`. Add your solutions in this folder only.
+5. By default, the website requires java and python solutions, if you wish to add only one of them, or just know solution in only one of the language, use `langs="java"` or `langs="py"` while using the line
+```md
+{% include codetab.html btnClass="solution" langs="java py"%}
+```
+6. If you have got working solutions in both python/java, don't include the langs part
+```md
+{% include codetab.html btnClass="solution"%}
+```
