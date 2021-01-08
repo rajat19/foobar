@@ -15,4 +15,3 @@ plugins:
  - jekyll-seo-tag
 
 default_languages: java py
-theme: jekyll-theme-cayman
